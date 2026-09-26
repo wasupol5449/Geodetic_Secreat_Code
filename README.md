@@ -1,2 +1,2 @@
 # Geodetic_Secreat_Code
-![Chikawa](image\Chikawa.jpg)
+![Chikawa](image/Chikawa.jpg)
