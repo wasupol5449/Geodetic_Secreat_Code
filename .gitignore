@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+tgm2017-1_2.pgm
+coordinate.csv
+*.pgm
+TGM2017_s1200.GEM
